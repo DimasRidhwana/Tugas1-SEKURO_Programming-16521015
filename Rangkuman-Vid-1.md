@@ -30,6 +30,7 @@ Ada beberapa komponen yang akan sering dibahas pada VCS,Git, dan GitHub yakni,
 9. Push : Mengirimkan commit dari repository
 10. Pull : Mengambil commit dari repository
 
+
 <p>&nbsp;</p>
 
 
